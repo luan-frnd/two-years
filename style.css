@@ -1325,6 +1325,7 @@
   margin-top: 30px;
   width: 50%;
   font-size: 1em;
+  height: 100vh;
   display: flex;
   justify-items: center;
   flex-direction: column;
