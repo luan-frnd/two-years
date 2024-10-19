@@ -1311,6 +1311,9 @@
 
 @media (max-width: 768px) {
   
+  .container not-loaded{
+    height: 100vh;
+  }
 .main-container{
   display: flex;
   align-items: center;
